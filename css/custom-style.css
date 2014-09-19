@@ -1,4 +1,12 @@
-body{
-    background-color:yellow
-    
+div{
+   border-style: solid;
+   border-width:10px;
+   padding:30px;
+}
+.container{
+    border-color:blue
+}
+
+.row{
+    border-color:green;
 }
