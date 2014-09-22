@@ -1,12 +1,18 @@
 div{
    border-style: solid;
    border-width:10px;
+   border-color:darkturquoise;
    padding:30px;
 }
 .container{
-    border-color:blue
+    border-color:darkblue;
 }
 
 .row{
-    border-color:green;
+    border-color:darkblue;
+}
+
+body{
+    background-color:greenyellow; 
+    
 }
