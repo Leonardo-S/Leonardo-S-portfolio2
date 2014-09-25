@@ -14,12 +14,12 @@ h1 {
      font-size:15px;
  }
  
- div{
+/* div{
    border-style: hidden;
    border-width:10px;
    border-color:darkblue;
    padding:30px;
-}
+}*/
 
 nav a {
     color:blue;
