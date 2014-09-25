@@ -1,7 +1,6 @@
 div{
-   border-style: solid;
+   border-style:none;
    border-width:10px;
-   border-color:darkturquoise;
    padding:30px;
 }
 .container{
@@ -13,7 +12,7 @@ div{
 }
 
 body{
-    background-color:greenyellow; 
+    background-color:orange;
     
 }
 
@@ -24,3 +23,20 @@ nav a {
         
 }
 
+p a{
+    font-size: 40px;
+    color: darkblue
+}
+
+p {
+     font-size:15px;
+ }
+ 
+ h1 {
+    font-size:50px;
+    padding-left:500px;
+    border-style:solid;
+    
+ }
+ 
+ 
