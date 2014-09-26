@@ -2,6 +2,7 @@ div{
    border-style:solid;
    border-width:10px;
    padding:30px;
+   border-color:darkblue;
 }
 .container{
     border-color:darkblue;
@@ -16,12 +17,12 @@ body{
     
 }
 
-nav a {
+/*nav a {
     color:darkblue;
     padding:100px;
     font-size:17px
         
-}
+}*/
 
 p a{
     font-size: 40px;
@@ -34,8 +35,9 @@ p {
  
  h1 {
     font-size:50px;
-    padding-left:500px;
+    padding-left:300px;
     border-style:solid;
+    
     
  }
  
